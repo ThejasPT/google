@@ -1,0 +1,97 @@
+.luffy{ /**sign in profile pic**/
+    height: 30px;
+    border-radius: 50px;
+    width: 30px;
+    margin-left: 15px;
+}
+.linedot{ /**linedot**/
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+   
+}
+.top{ /**(gmail,images,linedot,profile)**/
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: small;
+    
+
+}
+.asdf{ /**search bar(search,mic,len icon**/
+    border: 1px solid rgb(235, 233, 233);
+    width: 550px;
+    height: 50px;
+border-radius: 30px;
+display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-bottom: 10px;
+}
+.search{ /**mic icon**/
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    padding-right: 6px;
+   margin-right: 10px;
+}
+.inputt{ /**input search text**/
+    border: 20px;
+    outline: none;
+    width: 400px;
+    margin-left: 6px;
+   
+    
+}
+.pop{ /**search icon**/
+    width: 28px;
+    height: 28px;
+    padding-top: 6px;
+    margin-left: 10px;
+    
+}
+.len{ /**len icon**/
+    width: 25px;
+    height: 25px;
+   
+
+}
+.gsearch{ /**google search button**/
+    color:rgb(85, 82, 82);
+    border: none;
+    margin-right: 9px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 14px;
+ }
+ .lucky{ /**im lucky button**/
+     color: rgb(85, 82, 82);
+     border: none;
+     height: 35px;
+     border-radius: 5px;
+     font-size: 14px;
+     
+ }
+ .gsearch:hover{
+    box-shadow: 1px 1px 1px 1px rgba(203,199,199, 0.5) ;
+ }
+ .lucky:hover{
+    box-shadow: 1px 1px 1px 1px rgba(203,199,199, 0.5) ;
+ }
+ .pic{/**google picture**/
+    height: 92px;
+    width:272px;
+    
+ }
+ .asdf:hover{
+    box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(220, 210, 210, 0.887) ;
+
+ }
+ .linedot:hover{
+    
+
+ }
+ 
+
