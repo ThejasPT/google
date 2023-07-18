@@ -89,6 +89,34 @@ display: flex;
     box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(220, 210, 210, 0.887) ;
 
  }
- 
- 
+ .India{
+    padding: 15px 30px;
+    display: flex;    
+    border-bottom: 1px solid #dadce0;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-between;
+   
+ }
+.left{
+    margin-left: 0px;
+   float: left;
+   
+
+    
+} 
+.right{
+    float: right;
+    margin-right: 10px;
+    color: grey;
+}
+.bottom{
+    padding: 15px 30px;
+    display: flex;    
+    border-bottom: 1px solid #dadce0;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-between;
+}
+
 
